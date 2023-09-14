@@ -1,0 +1,22 @@
+.Country{
+    border: 2px solid skyblue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.btn{
+    background-color: aqua;
+    margin-top: 3px;
+}
+.btn2{
+    background-color:turquoise;
+    margin-top: 3px;
+}
+.btn3{
+    background-color: chartreuse;
+    margin-top: 3px;
+    margin-right: 2px;
+}
+.visitedBG{
+    background-color: bisque;
+}
